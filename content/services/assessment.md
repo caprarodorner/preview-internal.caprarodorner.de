@@ -33,7 +33,7 @@ The results of the contribution-flow benchmark and proposed action items are pre
 - comparison of InnerSource projects in your firm
 {{< /accordion >}}
 
-{{< accordion prefix="Preview: " title="InnerSource Dashboard" label="coming soon" >}}
+{{< accordion prefix="" title="InnerSource Dashboard" label="coming soon" >}}
 There are situations where you want immediate feedback: How did last week’s evangelizing event accelerate InnerSource contributions in departments that were coldspots of InnerSource collaboration? How is the contribution-flow adapting to the new practices you proposed to one of your favorite InnerSource projects? How successful was last month’s work? How is my team’s SCRUM workflow interacting with InnerSource?
 
 We are currently developing an integrated suite of InnerSource dashboards that help you to understand your InnerSource program and projects in real time. Want to get early access? [Reach out to us!](mailto:mail@caprarodorner.de)
