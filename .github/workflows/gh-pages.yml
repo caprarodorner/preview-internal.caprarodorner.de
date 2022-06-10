@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css && npm run build
+        run: npm i && npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css && npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
