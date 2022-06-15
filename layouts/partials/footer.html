@@ -40,10 +40,11 @@
             Contact & Legal
           </p>
 
-          <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
+          <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500" x-data="{}">
             <a class="hover:opacity-75" href="mailto:mail@caprarodorner.de">Reach out Directly</a>
             <a class="hover:opacity-75" href="/imprint/">Imprint</a>
             <a class="hover:opacity-75" href="/contact/">Contact</a>
+            <a class="hover:opacity-75" href="#opt-out" @click="posthog.opt_out_capturing(); localStorage.removeItem('hide-banner'); location.reload();">Reset Tracking</a>
           </nav>
         </div>
       </div>
