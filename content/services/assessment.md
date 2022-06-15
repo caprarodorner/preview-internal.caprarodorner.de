@@ -3,8 +3,8 @@ title: "InnerSource Assessment"
 date: 2022-03-31T16:37:50+02:00
 draft: false
 ---
-  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet.
+
+An assessment of your InnerSource program gives you a fresh perspective: What can be improved? Where are chances and risks that you overlooked? We offer a variety of consulting packages focussing on auditing practices in your InnerSource program, specific projects, or focussing on existing collaboration and contribution-flow in your firm.
 
 {{< accordion prefix="Package: " title="InnerSource Program Audit" >}}
 During the audit of your InnerSource program, we carefully inspect the practices, elements, mechanisms, and challenges of your program and compare them to known and proven best practices. We develop a prioritized list of action items helping you to improve.
