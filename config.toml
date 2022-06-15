@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Hugo & Tailwind 3.0'
+title = 'Home'
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 [permalinks]
