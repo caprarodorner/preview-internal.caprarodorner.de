@@ -13,7 +13,7 @@ Dr. Maximilian Capraro is a partner at Capraro Dorner, where he helps comapnies 
 
 Max is member and assistant treasurer of the InnerSource Commons Foundation and served two terms on its board of directors. He is a (part-time) engineer at DATEV eG where he educates on InnerSource and co-founded one of the firm's most successful InnerSource projects. 
 
-Back in academia, Max performed over six years of research on InnerSource and consulted companies like Siemens, Continental, and Black Duck Software. He developed the contribution-flow method for evaluating and auditing InnerSource success in large organizations. Max holds a doctoral degree from FAU Erlangen, Germany.
+Back in academia, Max performed over six years of research on InnerSource and consulted companies including Siemens, Continental, and Black Duck Software. He developed the contribution-flow method for evaluating and auditing InnerSource success in large organizations. Max holds a doctoral degree from FAU Erlangen, Germany.
 
 Reach out to Max via <a href="mailto:maximilian@caprarodorner.de">maximilian@caprarodorner.de</a>.
 
