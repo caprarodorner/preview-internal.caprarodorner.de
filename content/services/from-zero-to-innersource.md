@@ -4,7 +4,7 @@ date: 2022-03-31T16:37:50+02:00
 draft: false
 ---
   
-Adopting and scaling InnerSource is not a trivial task: Many companies we worked with are uncertain how and where to start. We have worked on InnerSource for nearly a decade: Currently, we are condensing this experience into our turn-key pipeline for helping you adopt, scale, and govern InnerSource: We call it From Zero to InnerSource.
+Adopting and scaling InnerSource is not a trivial task: Many companies we worked with are uncertain how and where to start. We have worked on InnerSource for nearly a decade: Currently, we are condensing this experience into our turn-key pipeline for helping you adopt, scale, and govern InnerSource: We call it _From Zero to InnerSource_.
 
 With our From Zero to InnerSource pipeline, we will offer you just the right service packages to not only get your company started with InnerSource but also sustainably scale InnerSource collaboration across the whole company and hundreds of projects.
 The core idea behind From Zero to InnerSource is simple: We start small with one or a few hand-selected pilot projects. Subsequently, we build on the success stories created with those pilots to grow InnerSource in your company step-by-step. For this, we utilize mechanisms from open source foundations and the InnerSource programs we have worked with, which have been proven time and time again.
