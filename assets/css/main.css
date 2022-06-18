@@ -7,4 +7,10 @@
   h2 {
     @apply mt-8 mb-4 text-4xl font-thin
   }
+  details > summary {
+    list-style: none;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
 }
