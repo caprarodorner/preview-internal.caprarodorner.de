@@ -4,7 +4,7 @@ date: 2022-03-31T16:36:21+02:00
 draft: false
 ---
 
-Reach out to us at any time - we are looking forward to hearing from you.
+Reach out to us anytime - we look forward to hearing from you.
 
 <div class="pl-4">
   <address>

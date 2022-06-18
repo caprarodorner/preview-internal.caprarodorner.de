@@ -9,7 +9,7 @@ Capraro Dorner is a software engineering consultancy from Bavaria. We are helpin
 
 ### Maximilian Capraro
 
-Dr. Maximilian Capraro is a partner at Capraro Dorner, where he helps comapnies kick-start and scale their InnerSource programs. 
+Dr. Maximilian Capraro is a partner at Capraro Dorner, where he helps companies kick-start and scale their InnerSource programs. 
 
 Max is member and assistant treasurer of the InnerSource Commons Foundation and served two terms on its board of directors. He is a (part-time) engineer at DATEV eG where he educates on InnerSource and co-founded one of the firm's most successful InnerSource projects. 
 
@@ -20,7 +20,9 @@ Reach out to Max via <a href="mailto:maximilian@caprarodorner.de">maximilian@cap
 
 ### Michael Dorner
 
-**We will add Michael's short bio soon.**
+Michael Dorner is a partner at Capraro Dorner, where he helps companies kick-start and scale their InnerSource programs and researcher at Blekinge Institute of Technology (BTH) in Sweden.
+
+Before joining academia and co-founding Capraro Dorner, he worked as a data scientist and software developer in Siemens Healthcare. In his research, he works on leveraging software development simulation and understanding communication networks as information repositories which is the backbone for a functional and beneficial InnerSource project.
 
 Reach out to Michael via <a href="mailto:michael@caprarodorner.de">michael@caprarodorner.de</a>.
 
