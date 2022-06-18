@@ -20,9 +20,9 @@ Reach out to Max via <a href="mailto:maximilian@caprarodorner.de">maximilian@cap
 
 ### Michael Dorner
 
-Michael Dorner is a partner at Capraro Dorner, where he helps companies kick-start and scale their InnerSource programs and researcher at Blekinge Institute of Technology (BTH) in Sweden.
+Michael Dorner is a partner at Capraro Dorner, where he helps companies kick-start and scale their InnerSource programs.
 
-Before joining academia and co-founding Capraro Dorner, he worked as a data scientist and software developer in Siemens Healthcare. In his research, he works on leveraging software development simulation and understanding communication networks as information repositories which is the backbone for a functional and beneficial InnerSource project.
+Michael is holds a researcher position at Blekinge Institute of Technology (BTH) in Sweden. In a prior life, he worked as a data scientist and software developer in Siemens Healthcare. In his work, Michael focuses on leveraging software development simulation and data analytics to understand how developers communicate and collaborate - which is also the theoretical backbone for his pragmatic consulting on InnerSource and software engineering.
 
 Reach out to Michael via <a href="mailto:michael@caprarodorner.de">michael@caprarodorner.de</a>.
 
