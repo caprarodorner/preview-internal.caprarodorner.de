@@ -4,7 +4,7 @@ date: 2022-03-31T16:37:50+02:00
 draft: false
 ---
 
-Assessing your InnerSource program gives you a fresh perspective: What can be improved? Where are the chances and risks that you overlooked? We offer a variety of consulting packages focussing on auditing practices in your InnerSource program, specific projects, or focusing on existing collaboration and contribution flow in your firm.
+Assessing your InnerSource program gives you a fresh perspective: What can be improved? Where are the chances and risks that you overlooked? We offer a variety of consulting packages focussing on auditing practices in your InnerSource program, specific projects, or focusing on existing collaboration and contribution-flow in your firm.
 
 {{< accordion prefix="Package: " title="InnerSource Program Audit" >}}
 During the audit of your InnerSource program, we carefully inspect your program's practices, elements, mechanisms, and challenges and compare them to known and proven best practices. We develop a prioritized list of action items to help you to improve.
@@ -34,7 +34,7 @@ The results of the contribution-flow benchmark and proposed action items are pre
 {{< /accordion >}}
 
 {{< accordion prefix="" title="InnerSource Dashboard" label="coming soon" >}}
-There are situations where you want immediate feedback: How did last week’s evangelizing event accelerate InnerSource contributions in departments that were coldspots of InnerSource collaboration? How is the contribution flow adapting to the new practices you proposed to one of your favorite InnerSource projects? How successful was last month’s work? How is my team’s SCRUM workflow interacting with InnerSource?
+There are situations where you want immediate feedback: How did last week’s evangelizing event accelerate InnerSource contributions in departments that were coldspots of InnerSource collaboration? How is the contribution-flow adapting to the new practices you proposed to one of your favorite InnerSource projects? How successful was last month’s work? How is my team’s SCRUM workflow interacting with InnerSource?
 
 We are developing an integrated suite of InnerSource dashboards that help you understand your InnerSource program and projects in real-time. Want to get early access? [Reach out to us!](mailto:mail@caprarodorner.de){{< /accordion >}}
 

@@ -25,7 +25,7 @@ The workshop delivers:
 {{< /accordion >}}
 
 {{< accordion prefix="Package: " title="Risk Assessment" label="get certainty now!" >}}
-Is your InnerSource program facing risks related to transfer pricing and taxation? With our measurement gear, we identify how your enterprise’s national entities partake in InnerSource collaboration (_contribution flow_), analyze where you are at risk, and propose concrete next steps to mitigate those risks.
+Is your InnerSource program facing risks related to transfer pricing and taxation? With our measurement gear, we identify how your enterprise’s national entities partake in InnerSource collaboration (_contribution-flow_), analyze where you are at risk, and propose concrete next steps to mitigate those risks.
 
 This package delivers:
 - high-level analysis of InnerSource collaboration among your national entities
